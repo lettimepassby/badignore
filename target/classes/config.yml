@@ -1,0 +1,17 @@
+badignore: true
+messages: '&7[&a脏话屏蔽&7]&b检测到你的言论包含违规词语,发言被取消'
+list:
+  - 'SB'
+  - 'sb'
+  - 'nmsl'
+  - 'NMSL'
+  - 'cnm'
+  - 'CNM'
+  - 'rz'
+  - 'rz'
+  - 'fw'
+  - 'FW'
+  - '你妈死了'
+  - '草你妈'
+  - '傻逼'
+  - 'L'

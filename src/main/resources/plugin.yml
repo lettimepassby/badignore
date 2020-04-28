@@ -1,0 +1,7 @@
+name: badignore
+author: TimePassBy
+version: 1.0.0
+main: me.TimePassBy.badignore.Main
+commands:
+  reload:
+    description: reload plugin
